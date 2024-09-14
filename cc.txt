@@ -1,0 +1,5 @@
+
+  Cloud computing is the delivery of computing resources over the internet, or "the cloud".
+    Cloud computing is used for many everyday activities, 
+    such as accessing email, streaming movies, and playing online games.
+    It's also important for businesses, which can use it to facilitate remote work and support customer engagement
